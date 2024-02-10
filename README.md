@@ -7,7 +7,7 @@ This profile is a start from scratch to shift my focus towards a different domai
 
 
 ### Current Study Focus 📚
-**Frontend**: `HTML` `(Tailwind) CSS`, `ReactJS`
+**Frontend**: `HTML` `(Tailwind) CSS`, `React`
 
 
 ### Mastered Skills 💪
