@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I am Julian 👋
+
+I'm a software engineer specializing in C++/Python development within the automotive industry, currently exploring web technologies and other digital domains to expand my skill set.
+I am dedicated to blending deep technical expertise with emerging tech trends.
+
+This profile is a start from scratch to shift my focus towards a different domain. I will try to document my journey with public repositories ✨
+
 
 <!--
 **JulDevIO/JulDevIO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
